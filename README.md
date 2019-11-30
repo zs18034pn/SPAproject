@@ -1,4 +1,4 @@
-"# SPAproject" 
-SQLAlchemy
-Python
-Oracle database
+"# SPAproject" \n
+"SQLAlchemy" \n
+"Python" \n
+"Oracle database" \n
